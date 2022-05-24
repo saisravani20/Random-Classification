@@ -39,7 +39,8 @@ plt.title('Random Classification Data with 2 classes')
 
 ## Output:
 ![Ex no 1.Random Classifier plot](XXX.png)
-![image](https://user-images.githubusercontent.com/89680011/169959082-ef497dd8-084b-4849-b7d1-e8dcc5d68321.png)
+![image](https://user-images.githubusercontent.com/89680011/169959358-d63379a2-a6b3-479e-bb01-58c4d002e00c.png)
+
 
 
 
