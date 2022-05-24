@@ -23,8 +23,8 @@ Purpose of Random classifier: One of the most important features of the Random F
 ```
 /*
 Program to implement random classification.
-Developed by   :
-RegisterNumber :  
+Developed by   : Sai Sravani K
+RegisterNumber :  212219040131
 */
 import matplotlib.pyplot as plt
 from sklearn import datasets
@@ -38,8 +38,10 @@ plt.title('Random Classification Data with 2 classes')
 
 
 ## Output:
-![Ex no 1.Random Classifier plot](XXX.png)
-![image](https://user-images.githubusercontent.com/89680011/169959358-d63379a2-a6b3-479e-bb01-58c4d002e00c.png)
+
+![image](https://user-images.githubusercontent.com/89680011/169959614-1b7622ce-289d-4f31-a51a-ed232cf49d4b.png)
+
+
 
 
 
